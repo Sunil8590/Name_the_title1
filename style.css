@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    min-width:400px;
+    min-height: 30px;
+    background-color:papayawhip;
+}
+#btn{
+   display: block;
+   color: white;
+   border: pink 2px solid;
+   border-radius: 5px;
+   height: 4em;
+   width: 10em;
+   background-image: linear-gradient(to right,rgba(223, 37, 180, 0.6), rgba(152, 31, 79, 0.9));
+   text-align: center;
+   margin: auto;
+}
+h1{
+    margin: auto;
+    text-align: center;
+}
